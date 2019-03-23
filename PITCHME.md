@@ -57,7 +57,7 @@
 ---
 例えば・・・
 ---
-ブログ書いたり  
+技術ブログ書いたり  
 ![alt](assets/image/blog.png)  
 [https://kakistamp.hatenadiary.jp/](https://kakistamp.hatenadiary.jp/)
 ---
