@@ -1,5 +1,5 @@
 theme : night
-#theme-override : assets/css/PITCHME.css
+theme-override : assets/css/PITCHME.css
 highlight : hybrid
 logo : assets/image/logo.png
 transition : slide
