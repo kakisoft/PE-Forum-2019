@@ -67,7 +67,7 @@
 ---
 スライドを公開したり  
 ![alt](assets/image/slide.png)  
-(https://gitpitch.com/kakisoft/HowToUseGitPitch3#/)[https://gitpitch.com/kakisoft/HowToUseGitPitch3#/]
+(https://gitpitch.com/kakisoft/HowToUseGitPitch3)[https://gitpitch.com/kakisoft/HowToUseGitPitch3]
 ---
 できる事は様々です。
 ---
@@ -82,7 +82,7 @@
 どこでも見れる、  
 自分用の汎用的技術メモを残したり・・・
 ![alt](assets/image/memo.png)  
-(https://kakisoft.github.io/MiscellaneousDocs/)[https://kakisoft.github.io/MiscellaneousDocs/]
+(https://kakisoft.github.io/MiscellaneousDocs)[https://kakisoft.github.io/MiscellaneousDocs]
 ---
 効率化のためのスクリプトを用意し、  
 どこからでも使えるようにしたり・・・  
@@ -122,7 +122,8 @@ ERPアプリケーションだったり
 どういう事かというと
 ---
 最近、人狼ゲームの用語集を作りました。  
-[url]（画像） 
+![alt](assets/image/WerewolfGame.png)  
+[https://kakisoft.github.io/WerewolfGameInEnglish](https://kakisoft.github.io/WerewolfGameInEnglish)
 ---
 「英語で人狼ゲームをプレイする」  
 というコミュニティにて、紙で配布されていた  
