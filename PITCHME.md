@@ -104,6 +104,7 @@
 ![alt](assets/image/redmine.png)  
 ---
 ERPアプリケーションだったり
+![alt](assets/image/erp.png)  
 ---
 無数の選択肢があります。
 ---
