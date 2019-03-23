@@ -67,7 +67,7 @@
 ---
 スライドを公開したり  
 ![alt](assets/image/slide.png)  
-(https://gitpitch.com/kakisoft/HowToUseGitPitch3)[https://gitpitch.com/kakisoft/HowToUseGitPitch3]
+[https://gitpitch.com/kakisoft/HowToUseGitPitch3](https://gitpitch.com/kakisoft/HowToUseGitPitch3)
 ---
 できる事は様々です。
 ---
@@ -82,7 +82,7 @@
 どこでも見れる、  
 自分用の汎用的技術メモを残したり・・・
 ![alt](assets/image/memo.png)  
-(https://kakisoft.github.io/MiscellaneousDocs)[https://kakisoft.github.io/MiscellaneousDocs]
+[https://kakisoft.github.io/MiscellaneousDocs](https://kakisoft.github.io/MiscellaneousDocs)
 ---
 効率化のためのスクリプトを用意し、  
 どこからでも使えるようにしたり・・・  
