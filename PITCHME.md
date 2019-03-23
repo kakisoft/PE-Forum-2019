@@ -1,7 +1,6 @@
 ### エンジニアの働き方について
 ### と
 ### 手持ちの武器の有効利用
-（仮題）
 
 ---
 ### 自己紹介
@@ -58,11 +57,17 @@
 ---
 例えば・・・
 ---
-ブログ書いたり
+ブログ書いたり  
+![alt](assets/image/blog.png)  
+[https://kakistamp.hatenadiary.jp/](https://kakistamp.hatenadiary.jp/)
 ---
-技術情報共有サービスに投稿したり
+技術情報共有サービスに投稿したり  
+![alt](assets/image/qiita.png)  
+[https://qiita.com/kakisoft](https://qiita.com/kakisoft)
 ---
-スライドを公開したり
+スライドを公開したり  
+![alt](assets/image/slide.png)  
+(https://gitpitch.com/kakisoft/HowToUseGitPitch3#/)[https://gitpitch.com/kakisoft/HowToUseGitPitch3#/]
 ---
 できる事は様々です。
 ---
@@ -76,9 +81,13 @@
 ---
 どこでも見れる、  
 自分用の汎用的技術メモを残したり・・・
+![alt](assets/image/memo.png)  
+(https://kakisoft.github.io/MiscellaneousDocs/)[https://kakisoft.github.io/MiscellaneousDocs/]
 ---
 効率化のためのスクリプトを用意し、  
-どこからでも使えるようにしたり・・・
+どこからでも使えるようにしたり・・・  
+![alt](assets/image/script.png)  
+[https://github.com/kakisoft/MyTrivialTools](https://github.com/kakisoft/MyTrivialTools)
 ---
 自前のライブラリを作成したり
 ---
